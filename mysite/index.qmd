@@ -1,0 +1,11 @@
+---
+pagetitle: "Platform Demo"
+section-divs: false
+toc: false
+---
+:::{.column-screen}
+![](images/homepage.jpg)
+:::
+### This is a **Quarto** website.
+
+I have built this site to see whether Quarto is a good platform for building what we want to build. *Let's see what's possible!*

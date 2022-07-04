@@ -1,0 +1,6 @@
+---
+title: "Ideas & Concepts"
+format: html
+sidebar: false
+---
+

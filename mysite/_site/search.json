@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Platform Demo",
+    "section": "",
+    "text": "This is a Quarto website.\nI have built this site to see whether Quarto is a good platform for building what we want to build. Let’s see what’s possible!"
+  },
+  {
+    "objectID": "cases.html",
+    "href": "cases.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "Case study page"
+  },
+  {
+    "objectID": "casestudies.html",
+    "href": "casestudies.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "Case study page"
+  },
+  {
+    "objectID": "docs/about.html",
+    "href": "docs/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "docs/case-studies/case-studies.html",
+    "href": "docs/case-studies/case-studies.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "Case study page"
+  }
+]

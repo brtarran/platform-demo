@@ -1,0 +1,6 @@
+---
+title: "Science & Academia"
+format: html
+sidebar: false
+---
+
