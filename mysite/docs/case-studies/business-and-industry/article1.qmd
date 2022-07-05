@@ -1,0 +1,38 @@
+---
+title: "First of many articles"
+subtitle: Continuing a demo to see how well things work out for the platform
+descrption: |
+  This post is copied from the Quarto website. I just want to see if it works for creating article types.
+format:
+  html:
+    code-fold: true
+jupyter: python3
+categories:
+  - python
+  - demo
+  - application
+author: not Brian Tarran
+date: 7/5/2022
+image: images/codephone.png
+image-alt: phone with code slogan on it
+---
+
+For a demonstration of a line plot on a polar axis, see @fig-polar.
+
+```{python}
+#| label: fig-polar
+#| fig-cap: "A line plot on a polar axis"
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(
+  subplot_kw = {'projection': 'polar'} 
+)
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```

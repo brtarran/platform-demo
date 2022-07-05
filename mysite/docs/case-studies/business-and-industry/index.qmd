@@ -1,6 +1,10 @@
 ---
 title: "Business & Industry"
-format: html
-sidebar: false
+listing:
+  contents:
+    - "**/[!index][!about]*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
 ---
-
+Use cases from major corporates to SMEs

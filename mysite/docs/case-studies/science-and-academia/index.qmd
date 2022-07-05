@@ -1,6 +1,11 @@
 ---
 title: "Science & Academia"
-format: html
-sidebar: false
+listing:
+  contents:
+    - "**/[!index][!about]*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
+Cutting-edge applications from universities and labs

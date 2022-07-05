@@ -6,12 +6,16 @@ website:
   navbar:
     background: secondary
     left:
-      - href: index.qmd
-        text: "Home"
-      - sidebar:case-studies
-      - sidebar:explainers
-      - sidebar:training
-      - sidebar:advice
+      - text: "Home"
+        href: index.qmd
+      - text: "Case Studies"
+        href: docs/case-studies/index.qmd
+      - text: "Explainers"
+        href: docs/explainers/index.qmd
+      - text: "Training"
+        href: docs/training/index.qmd
+      - text: "Advice"
+        href: docs/advice/index.qmd 
     right:
       - href: https://github.com/
         icon: github
@@ -19,15 +23,16 @@ website:
         icon: stack-overflow
       - href: https://twitter.com/
         icon: twitter
-    pinned: true
+    pinned: false
 
   sidebar: 
     - id: case-studies
       title: "Case Studies"
-      style: "docked"
-      background: light
+      style: "floating"
       collapse-level: 2
+      align: left
       contents:
+        - docs/case-studies/index.qmd
         - href: docs/case-studies/business-and-industry/index.qmd
           text: "Business & Industry"
         - href: docs/case-studies/social-and-public-policy/index.qmd
@@ -37,10 +42,11 @@ website:
 
     - id: explainers
       title: "Explainers"
-      style: "docked"
-      background: light
+      style: "floating"
       collapse-level: 2
+      align: left
       contents:
+        - docs/explainers/index.qmd
         - href: docs/explainers/tools/index.qmd
           text: "Tools"
         - href: docs/explainers/methods/index.qmd
@@ -50,10 +56,11 @@ website:
 
     - id: training
       title: "Training"
-      style: "docked"
-      background: light
+      style: "floating"
       collapse-level: 2
+      align: left
       contents:
+        - docs/training/index.qmd
         - href: docs/training/exercises/index.qmd
           text: "Exercises"
         - href: docs/training/guides/index.qmd
@@ -65,10 +72,11 @@ website:
 
     - id: advice
       title: "Advice"
-      style: "docked"
-      background: light
+      style: "floating"
       collapse-level: 2
+      align: left
       contents:
+        - docs/advice/index.qmd
         - href: docs/advice/helpline/index.qmd
           text: "The Helpline"
         - href: docs/advice/career-profiles/index.qmd

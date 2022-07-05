@@ -1,6 +1,11 @@
 ---
 title: "Social & Public Policy"
-format: html
-sidebar: false
+listing:
+  contents:
+    - "**/[!index][!about]*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
+From healthcare to education to employment

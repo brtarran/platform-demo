@@ -1,11 +1,70 @@
 ---
-pagetitle: "Platform Demo"
+title: Welcome to this Platform Demo
+subtitle: I have built this site to see whether Quarto is a good platform for building what we want to build. *Let's see what's possible!*
+page-layout: article
+image: /images/homepage.jpg
 section-divs: false
 toc: false
+listing:
+  - id: latest-content
+    contents:
+      - "docs/**/[!index][!about]*.qmd"
+    sort: "date desc"
+    type: default
+    max-items: 5
+    categories: false
+  - id: case-studies
+    contents:
+      - "docs/case-studies/business-and-industry/index.qmd"
+      - "docs/case-studies/social-and-public-policy/index.qmd"
+      - "docs/case-studies/science-and-academia/index.qmd"
+    type: grid
+  - id: explainers
+    contents:
+      - "docs/explainers/ideas/index.qmd"
+      - "docs/explainers/tools/index.qmd"
+      - "docs/explainers/methods/index.qmd"
+    type: grid
+  - id: training
+    contents:
+      - "docs/training/exercises/index.qmd"
+      - "docs/training/guides/index.qmd"
+      - "docs/training/recommended-reading/index.qmd"
+      - "docs/training/datasets/index.qmd"
+    type: grid
+  - id: advice
+    contents:
+      - "docs/advice/helpline/index.qmd"
+      - "docs/advice/career-profiles/index.qmd"
+      - "docs/advice/professional-development/index.qmd"
+      - "docs/advice/ethics-bestpractice/index.qmd"
+    type: grid
 ---
 :::{.column-screen}
 ![](images/homepage.jpg)
 :::
-### This is a **Quarto** website.
 
-I have built this site to see whether Quarto is a good platform for building what we want to build. *Let's see what's possible!*
+## Latest content
+
+::: {#latest-content}
+:::
+
+## Case Studies
+
+::: {#case-studies}
+:::
+
+## Explainers
+
+::: {#explainers}
+:::
+
+## Training
+
+::: {#training}
+:::
+
+## Advice
+
+::: {#advice}
+:::
