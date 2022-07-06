@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to this Platform Demo",
-    "section": "",
-    "text": "Latest content\n\n\n\n\n  \n\n\n\n\nThis is getting silly now\n\n\nYes, another duplicate. Sorry!\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nThis article looks quite similar\n\n\nI definitely just duplicated this one\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nFirst of many articles\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items\n\n\nCase Studies\n\n\n\n\n\n\n\nBusiness & Industry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScience & Academia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial & Public Policy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nExplainers\n\n\n\n\n\n\n\nIdeas & Concepts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTools\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nTraining\n\n\n\n\n\n\n\nDatasets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExercises\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuides\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecommended Reading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nAdvice\n\n\n\n\n\n\n\nCareer Profiles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEthics & Best Practice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Helpline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "cases.html",
-    "href": "cases.html",
-    "title": "Case Studies",
-    "section": "",
-    "text": "Case study page"
-  },
-  {
-    "objectID": "casestudies.html",
-    "href": "casestudies.html",
-    "title": "Case Studies",
-    "section": "",
-    "text": "Case study page"
-  },
-  {
     "objectID": "docs/about.html",
     "href": "docs/about.html",
     "title": "About",
@@ -35,46 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "docs/case-studies/case-studies.html",
-    "href": "docs/case-studies/case-studies.html",
-    "title": "Case Studies",
-    "section": "",
-    "text": "Case study page"
-  },
-  {
-    "objectID": "docs/case-studies/business-and-industry/index.html",
-    "href": "docs/case-studies/business-and-industry/index.html",
-    "title": "Business & Industry",
-    "section": "",
-    "text": "This article looks quite similar\n\n\nI definitely just duplicated this one\n\n\n\n\npython\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nFirst of many articles\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "docs/case-studies/science-and-academia/index.html",
-    "href": "docs/case-studies/science-and-academia/index.html",
-    "title": "Science & Academia",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "docs/case-studies/social-and-public-policy/index.html",
-    "href": "docs/case-studies/social-and-public-policy/index.html",
-    "title": "Social & Public Policy",
-    "section": "",
-    "text": "This is getting silly now\n\n\nYes, another duplicate. Sorry!\n\n\n\n\nfaking\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "docs/case-studies/business-and-industry/article1.html",
     "href": "docs/case-studies/business-and-industry/article1.html",
     "title": "First of many articles",
     "section": "",
     "text": "Code\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
-  },
-  {
-    "objectID": "docs/case-studies/index.html",
-    "href": "docs/case-studies/index.html",
-    "title": "Case Studies",
-    "section": "",
-    "text": "Yes, another duplicate. Sorry!\n\n\n\n\nfaking\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nI definitely just duplicated this one\n\n\n\n\npython\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "docs/case-studies/business-and-industry/article2.html",
@@ -105,6 +42,27 @@
     "text": "Conclusion\nA load of blah"
   },
   {
+    "objectID": "docs/case-studies/business-and-industry/index.html",
+    "href": "docs/case-studies/business-and-industry/index.html",
+    "title": "Business & Industry",
+    "section": "",
+    "text": "This article looks quite similar\n\n\nI definitely just duplicated this one\n\n\n\n\npython\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nFirst of many articles\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "docs/case-studies/index.html",
+    "href": "docs/case-studies/index.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "Yes, another duplicate. Sorry!\n\n\n\n\nfaking\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nI definitely just duplicated this one\n\n\n\n\npython\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "docs/case-studies/science-and-academia/index.html",
+    "href": "docs/case-studies/science-and-academia/index.html",
+    "title": "Science & Academia",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
     "objectID": "docs/case-studies/social-and-public-policy/article3.html",
     "href": "docs/case-studies/social-and-public-policy/article3.html",
     "title": "This is getting silly now",
@@ -131,5 +89,19 @@
     "title": "This is getting silly now",
     "section": "Conclusion",
     "text": "Conclusion\nA load of blah"
+  },
+  {
+    "objectID": "docs/case-studies/social-and-public-policy/index.html",
+    "href": "docs/case-studies/social-and-public-policy/index.html",
+    "title": "Social & Public Policy",
+    "section": "",
+    "text": "This is getting silly now\n\n\nYes, another duplicate. Sorry!\n\n\n\n\nfaking\n\n\npasting\n\n\ncopying\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to this Platform Demo",
+    "section": "",
+    "text": "Latest content\n\n\n\n\n  \n\n\n\n\nThis is getting silly now\n\n\nYes, another duplicate. Sorry!\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nThis article looks quite similar\n\n\nI definitely just duplicated this one\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nFirst of many articles\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items\n\n\nCase Studies\n\n\n\n\n\n\n\nBusiness & Industry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScience & Academia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial & Public Policy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nExplainers\n\n\n\n\n\n\n\nIdeas & Concepts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethods\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTools\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nTraining\n\n\n\n\n\n\n\nDatasets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExercises\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuides\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecommended Reading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nAdvice\n\n\n\n\n\n\n\nCareer Profiles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEthics & Best Practice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Helpline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
