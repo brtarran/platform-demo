@@ -1,5 +1,30 @@
 [
   {
+    "listing": "/docs/case-studies/business-and-industry/index.html",
+    "items": [
+      "/docs/case-studies/business-and-industry/article2.html",
+      "/docs/case-studies/business-and-industry/article1.html"
+    ]
+  },
+  {
+    "listing": "/docs/case-studies/index.html",
+    "items": [
+      "/docs/case-studies/social-and-public-policy/article3.html",
+      "/docs/case-studies/business-and-industry/article2.html",
+      "/docs/case-studies/business-and-industry/article1.html"
+    ]
+  },
+  {
+    "listing": "/docs/case-studies/science-and-academia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docs/case-studies/social-and-public-policy/index.html",
+    "items": [
+      "/docs/case-studies/social-and-public-policy/article3.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/docs/case-studies/social-and-public-policy/article3.html",
@@ -19,31 +44,6 @@
       "/docs/advice/ethics-bestpractice/index.html",
       "/docs/advice/professional-development/index.html",
       "/docs/advice/helpline/index.html"
-    ]
-  },
-  {
-    "listing": "/docs/case-studies/index.html",
-    "items": [
-      "/docs/case-studies/social-and-public-policy/article3.html",
-      "/docs/case-studies/business-and-industry/article2.html",
-      "/docs/case-studies/business-and-industry/article1.html"
-    ]
-  },
-  {
-    "listing": "/docs/case-studies/business-and-industry/index.html",
-    "items": [
-      "/docs/case-studies/business-and-industry/article2.html",
-      "/docs/case-studies/business-and-industry/article1.html"
-    ]
-  },
-  {
-    "listing": "/docs/case-studies/science-and-academia/index.html",
-    "items": []
-  },
-  {
-    "listing": "/docs/case-studies/social-and-public-policy/index.html",
-    "items": [
-      "/docs/case-studies/social-and-public-policy/article3.html"
     ]
   }
 ]
