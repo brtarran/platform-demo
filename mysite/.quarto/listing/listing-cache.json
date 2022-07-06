@@ -1,22 +1,12 @@
 {
   "listingMap": {
-    "docs\\case-studies\\business-and-industry\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\case-studies\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\case-studies\\science-and-academia\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\case-studies\\social-and-public-policy\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
     "index.qmd": [
-      "docs/**/[!index][!about]*.qmd",
+      "B3049D40",
+      "posts",
       "docs/case-studies/business-and-industry/index.qmd",
       "docs/case-studies/social-and-public-policy/index.qmd",
       "docs/case-studies/science-and-academia/index.qmd",
+      "docs/case-studies/*.qmd",
       "docs/explainers/ideas/index.qmd",
       "docs/explainers/tools/index.qmd",
       "docs/explainers/methods/index.qmd",
@@ -27,7 +17,33 @@
       "docs/advice/helpline/index.qmd",
       "docs/advice/career-profiles/index.qmd",
       "docs/advice/professional-development/index.qmd",
-      "docs/advice/ethics-bestpractice/index.qmd"
+      "docs/advice/ethics-bestpractice/index.qmd",
+      "docs/*qmd",
+      "docs/**qmd",
+      "*qmd",
+      "!index.qmd",
+      "docs/[!index].qmd",
+      "*.qmd",
+      "[!index].qmd",
+      "[!index.qmd]",
+      "docs/**/[!index]*.qmd",
+      "docs/**/[!about]*.qmd",
+      "docs/**/[!index][!about]*.qmd"
+    ],
+    "docs\\case-studies\\index.qmd": [
+      "docs/case-studies/[!index]*.qmd",
+      "docs/case-studies/**/[!index]*.qmd",
+      "docs/**/[!index][!about]*.qmd",
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\case-studies\\business-and-industry\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\case-studies\\science-and-academia\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\case-studies\\social-and-public-policy\\index.qmd": [
+      "**/[!index][!about]*.qmd"
     ]
   }
 }
