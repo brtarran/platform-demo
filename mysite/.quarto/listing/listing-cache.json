@@ -28,6 +28,28 @@
       "docs/advice/career-profiles/index.qmd",
       "docs/advice/professional-development/index.qmd",
       "docs/advice/ethics-bestpractice/index.qmd"
+    ],
+    "docs\\explainers\\index.qmd": [
+      "posts",
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\explainers\\posts\\ideas\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\explainers\\posts\\methods\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\explainers\\posts\\tools\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\explainers\\ideas\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\explainers\\methods\\index.qmd": [
+      "**/[!index][!about]*.qmd"
+    ],
+    "docs\\explainers\\tools\\index.qmd": [
+      "**/[!index][!about]*.qmd"
     ]
   }
 }

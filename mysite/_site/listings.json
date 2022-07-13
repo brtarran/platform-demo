@@ -27,6 +27,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/docs/explainers/tools/article6.html",
+      "/docs/explainers/methods/article5.html",
+      "/docs/explainers/ideas/article4.html",
       "/docs/case-studies/social-and-public-policy/article3.html",
       "/docs/case-studies/business-and-industry/article2.html",
       "/docs/case-studies/business-and-industry/article1.html",
@@ -44,6 +47,50 @@
       "/docs/advice/ethics-bestpractice/index.html",
       "/docs/advice/professional-development/index.html",
       "/docs/advice/helpline/index.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/index.html",
+    "items": [
+      "/docs/explainers/tools/article6.html",
+      "/docs/explainers/methods/article5.html",
+      "/docs/explainers/ideas/article4.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/posts/ideas/index.html",
+    "items": [
+      "/docs/explainers/posts/ideas/article4.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/posts/methods/index.html",
+    "items": [
+      "/docs/explainers/posts/methods/article5.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/posts/tools/index.html",
+    "items": [
+      "/docs/explainers/posts/tools/article6.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/ideas/index.html",
+    "items": [
+      "/docs/explainers/ideas/article4.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/methods/index.html",
+    "items": [
+      "/docs/explainers/methods/article5.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/tools/index.html",
+    "items": [
+      "/docs/explainers/tools/article6.html"
     ]
   }
 ]

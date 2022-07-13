@@ -103,3 +103,5 @@ format:
     theme: sandstone
     css: styles.css
     toc: true
+
+freeze: auto

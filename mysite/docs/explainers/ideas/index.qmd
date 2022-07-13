@@ -1,6 +1,11 @@
 ---
 title: "Ideas & Concepts"
 format: html
-sidebar: false
+listing:
+  contents:
+    - "**/[!index][!about]*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
