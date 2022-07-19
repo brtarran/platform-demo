@@ -27,6 +27,7 @@ jobs:
       - name: Install python dependencies
         run: |
           python -m pip install jupyter
+          python -m pip install numpy
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
