@@ -32,6 +32,6 @@ Yes, but it's all trial and error. I'm sure I'll get it working eventually.
 
 Fingers crossed!
 
-:::{.column-body-outset}
+:::{.column-body}
 ![](images/airpunch.png)
 :::
