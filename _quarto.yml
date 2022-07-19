@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Platform Demo"
+  site-url: https://fatso-jetson.github.io/platform-demo/
+  description: A Quarto demo for a new project
   navbar:
     background: secondary
     left:
