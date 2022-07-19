@@ -40,6 +40,7 @@
   {
     "listing": "/docs/explainers/index.html",
     "items": [
+      "/docs/explainers/methods/article8.html",
       "/docs/explainers/tools/article7.html",
       "/docs/explainers/tools/article6.html",
       "/docs/explainers/methods/article5.html",
@@ -49,12 +50,14 @@
   {
     "listing": "/docs/explainers/methods/index.html",
     "items": [
+      "/docs/explainers/methods/article8.html",
       "/docs/explainers/methods/article5.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/docs/explainers/methods/article8.html",
       "/docs/explainers/tools/article7.html",
       "/docs/explainers/tools/article6.html",
       "/docs/explainers/methods/article5.html",
