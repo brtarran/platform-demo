@@ -21,10 +21,10 @@ website:
     right:
       - href: https://github.com/
         icon: github
-      - href: https://stackoverflow.com/
-        icon: stack-overflow
       - href: https://twitter.com/
         icon: twitter
+      - href: index.xml
+        icon: rss
     pinned: false
 
   sidebar: 
