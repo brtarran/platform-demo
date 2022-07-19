@@ -1,0 +1,96 @@
+[
+  {
+    "listing": "/docs/case-studies/business-and-industry/index.html",
+    "items": [
+      "/docs/case-studies/business-and-industry/article2.html",
+      "/docs/case-studies/business-and-industry/article1.html"
+    ]
+  },
+  {
+    "listing": "/docs/case-studies/index.html",
+    "items": [
+      "/docs/case-studies/social-and-public-policy/article3.html",
+      "/docs/case-studies/business-and-industry/article2.html",
+      "/docs/case-studies/business-and-industry/article1.html"
+    ]
+  },
+  {
+    "listing": "/docs/case-studies/science-and-academia/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docs/case-studies/social-and-public-policy/index.html",
+    "items": [
+      "/docs/case-studies/social-and-public-policy/article3.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/docs/explainers/tools/article6.html",
+      "/docs/explainers/methods/article5.html",
+      "/docs/explainers/ideas/article4.html",
+      "/docs/case-studies/social-and-public-policy/article3.html",
+      "/docs/case-studies/business-and-industry/article2.html",
+      "/docs/case-studies/business-and-industry/article1.html",
+      "/docs/case-studies/business-and-industry/index.html",
+      "/docs/case-studies/science-and-academia/index.html",
+      "/docs/case-studies/social-and-public-policy/index.html",
+      "/docs/explainers/ideas/index.html",
+      "/docs/explainers/methods/index.html",
+      "/docs/explainers/tools/index.html",
+      "/docs/training/datasets/index.html",
+      "/docs/training/exercises/index.html",
+      "/docs/training/guides/index.html",
+      "/docs/training/recommended-reading/index.html",
+      "/docs/advice/career-profiles/index.html",
+      "/docs/advice/ethics-bestpractice/index.html",
+      "/docs/advice/professional-development/index.html",
+      "/docs/advice/helpline/index.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/index.html",
+    "items": [
+      "/docs/explainers/tools/article6.html",
+      "/docs/explainers/methods/article5.html",
+      "/docs/explainers/ideas/article4.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/posts/ideas/index.html",
+    "items": [
+      "/docs/explainers/posts/ideas/article4.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/posts/methods/index.html",
+    "items": [
+      "/docs/explainers/posts/methods/article5.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/posts/tools/index.html",
+    "items": [
+      "/docs/explainers/posts/tools/article6.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/ideas/index.html",
+    "items": [
+      "/docs/explainers/ideas/article4.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/methods/index.html",
+    "items": [
+      "/docs/explainers/methods/article5.html"
+    ]
+  },
+  {
+    "listing": "/docs/explainers/tools/index.html",
+    "items": [
+      "/docs/explainers/tools/article6.html"
+    ]
+  }
+]
