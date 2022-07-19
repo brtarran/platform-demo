@@ -31,4 +31,7 @@ Yes, but it's all trial and error. I'm sure I'll get it working eventually.
 ## Conclusion
 
 Fingers crossed!
+
+:::{.column-body-outset}
 ![](images/airpunch.png)
+:::
