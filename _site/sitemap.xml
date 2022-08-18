@@ -1,31 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fatso-jetson.github.io/platform-demo/index.html</loc>
-    <lastmod>2022-08-18T11:25:01.714Z</lastmod>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/about.html</loc>
+    <lastmod>2022-08-18T14:33:44.804Z</lastmod>
   </url>
   <url>
-    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/methods/article8.html</loc>
-    <lastmod>2022-08-18T10:37:26.000Z</lastmod>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/advice/career-profiles/index.html</loc>
+    <lastmod>2022-08-18T14:33:45.379Z</lastmod>
   </url>
   <url>
-    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/tools/article7.html</loc>
-    <lastmod>2022-08-18T10:37:26.779Z</lastmod>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/advice/ethics-bestpractice/index.html</loc>
+    <lastmod>2022-08-18T14:33:45.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/advice/helpline/index.html</loc>
+    <lastmod>2022-08-18T14:33:46.541Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/advice/index.html</loc>
+    <lastmod>2022-08-18T14:33:47.076Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/advice/professional-development/index.html</loc>
+    <lastmod>2022-08-18T14:33:47.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/business-and-industry/article1.html</loc>
+    <lastmod>2022-08-18T14:33:49.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/business-and-industry/article2.html</loc>
+    <lastmod>2022-08-18T14:33:50.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/business-and-industry/index.html</loc>
+    <lastmod>2022-08-18T14:33:51.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/index.html</loc>
+    <lastmod>2022-08-18T14:33:52.421Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/science-and-academia/index.html</loc>
+    <lastmod>2022-08-18T14:33:52.983Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/social-and-public-policy/article3.html</loc>
+    <lastmod>2022-08-18T14:33:53.877Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/case-studies/social-and-public-policy/index.html</loc>
+    <lastmod>2022-08-18T14:33:54.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/ideas/article4.html</loc>
+    <lastmod>2022-08-18T14:33:55.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/ideas/index.html</loc>
+    <lastmod>2022-08-18T14:33:56.274Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/index.html</loc>
-    <lastmod>2022-08-18T10:37:28.934Z</lastmod>
+    <lastmod>2022-08-18T14:33:57.821Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/methods/article5.html</loc>
+    <lastmod>2022-08-18T14:33:58.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/methods/article8.html</loc>
+    <lastmod>2022-08-18T14:33:59.540Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/methods/index.html</loc>
-    <lastmod>2022-08-18T10:37:29.696Z</lastmod>
+    <lastmod>2022-08-18T14:34:00.146Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/tools/article6.html</loc>
+    <lastmod>2022-08-18T14:34:01.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/tools/article7.html</loc>
+    <lastmod>2022-08-18T14:34:01.598Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/platform-demo/docs/explainers/tools/index.html</loc>
-    <lastmod>2022-08-18T10:37:30.407Z</lastmod>
+    <lastmod>2022-08-18T14:34:02.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/training/datasets/index.html</loc>
+    <lastmod>2022-08-18T14:34:02.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/training/exercises/index.html</loc>
+    <lastmod>2022-08-18T14:34:03.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/training/guides/hello.html</loc>
+    <lastmod>2022-08-18T14:34:03.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/training/guides/index.html</loc>
+    <lastmod>2022-08-18T14:34:04.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/training/index.html</loc>
+    <lastmod>2022-08-18T14:34:05.725Z</lastmod>
   </url>
   <url>
     <loc>https://fatso-jetson.github.io/platform-demo/docs/training/recommended-reading/article9.html</loc>
-    <lastmod>2022-08-18T11:24:54.397Z</lastmod>
+    <lastmod>2022-08-18T14:34:06.600Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/docs/training/recommended-reading/index.html</loc>
+    <lastmod>2022-08-18T14:34:07.190Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fatso-jetson.github.io/platform-demo/index.html</loc>
+    <lastmod>2022-08-18T14:34:08.036Z</lastmod>
   </url>
 </urlset>

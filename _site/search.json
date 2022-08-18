@@ -168,6 +168,34 @@
     "text": "Conclusion\nA load of blah"
   },
   {
+    "objectID": "docs/explainers/methods/article8.html",
+    "href": "docs/explainers/methods/article8.html",
+    "title": "And one more for luck",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1."
+  },
+  {
+    "objectID": "docs/explainers/methods/article8.html#section-header",
+    "href": "docs/explainers/methods/article8.html#section-header",
+    "title": "And one more for luck",
+    "section": "Section header",
+    "text": "Section header\ntext blah blah blah"
+  },
+  {
+    "objectID": "docs/explainers/methods/article8.html#another-section-header",
+    "href": "docs/explainers/methods/article8.html#another-section-header",
+    "title": "And one more for luck",
+    "section": "Another section header",
+    "text": "Another section header\nmore text blah blah"
+  },
+  {
+    "objectID": "docs/explainers/methods/article8.html#conclusion",
+    "href": "docs/explainers/methods/article8.html#conclusion",
+    "title": "And one more for luck",
+    "section": "Conclusion",
+    "text": "Conclusion\nA load of blah"
+  },
+  {
     "objectID": "docs/explainers/methods/index.html",
     "href": "docs/explainers/methods/index.html",
     "title": "Methods",
@@ -203,20 +231,6 @@
     "text": "Conclusion\nA load of blah"
   },
   {
-    "objectID": "docs/explainers/tools/index.html",
-    "href": "docs/explainers/tools/index.html",
-    "title": "Tools",
-    "section": "",
-    "text": "Will this publish without me doing anything except a commit?\n\n\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 19, 2022\n\n\nBrian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 15, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to this Platform Demo",
-    "section": "",
-    "text": "Latest content\n\n\n\n\n  \n\n\n\n\nAnother duplicate\n\n\nTrying to get RSS xml file to regenerate\n\n\n\n\n\n\n\n\n\nAug 18, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nAnd one more for luck\n\n\nTesting Quarto freeze and actions\n\n\n\n\n\n\n\n\n\nJul 20, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nTesting GitHub actions for upload\n\n\nWill this publish without me doing anything except a commit?\n\n\n\n\n\n\n\n\n\nJul 19, 2022\n\n\nBrian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nOK, no more now. This is it. Promise\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 15, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nWhat, seriously? This again!\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 14, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nStill copying the same old content\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 13, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nThis is getting silly now\n\n\nYes, another duplicate. Sorry!\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nThis article looks quite similar\n\n\nI definitely just duplicated this one\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nFirst of many articles\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "docs/explainers/tools/article7.html",
     "href": "docs/explainers/tools/article7.html",
     "title": "Testing GitHub actions for upload",
@@ -245,32 +259,32 @@
     "text": "Conclusion\nFingers crossed!"
   },
   {
-    "objectID": "docs/explainers/methods/article8.html",
-    "href": "docs/explainers/methods/article8.html",
-    "title": "And one more for luck",
+    "objectID": "docs/explainers/tools/index.html",
+    "href": "docs/explainers/tools/index.html",
+    "title": "Tools",
     "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1."
+    "text": "Will this publish without me doing anything except a commit?\n\n\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 19, 2022\n\n\nBrian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nJul 15, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "docs/explainers/methods/article8.html#section-header",
-    "href": "docs/explainers/methods/article8.html#section-header",
-    "title": "And one more for luck",
-    "section": "Section header",
-    "text": "Section header\ntext blah blah blah"
+    "objectID": "docs/training/guides/hello.html",
+    "href": "docs/training/guides/hello.html",
+    "title": "Quarto Basics",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
-    "objectID": "docs/explainers/methods/article8.html#another-section-header",
-    "href": "docs/explainers/methods/article8.html#another-section-header",
-    "title": "And one more for luck",
-    "section": "Another section header",
-    "text": "Another section header\nmore text blah blah"
+    "objectID": "docs/training/guides/index.html",
+    "href": "docs/training/guides/index.html",
+    "title": "Guides",
+    "section": "",
+    "text": "python\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nAug 19, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "docs/explainers/methods/article8.html#conclusion",
-    "href": "docs/explainers/methods/article8.html#conclusion",
-    "title": "And one more for luck",
-    "section": "Conclusion",
-    "text": "Conclusion\nA load of blah"
+    "objectID": "docs/training/index.html",
+    "href": "docs/training/index.html",
+    "title": "Training",
+    "section": "",
+    "text": "python\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nAug 19, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\n\nTrying to get RSS xml file to regenerate\n\n\n\n\npython\n\n\ndemo\n\n\napplication\n\n\n\n\n\n\n\n\n\n\n\nAug 18, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "docs/training/recommended-reading/article9.html",
@@ -299,5 +313,12 @@
     "title": "Another duplicate",
     "section": "Conclusion",
     "text": "Conclusion\nA load of blah"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to this Platform Demo",
+    "section": "",
+    "text": "Latest content\n\n\n\n\n  \n\n\n\n\nQuarto Basics\n\n\n\n\n\n\n\n\n\n\n\n\nAug 19, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nAnother duplicate\n\n\nTrying to get RSS xml file to regenerate\n\n\n\n\n\n\n\n\n\nAug 18, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nAnd one more for luck\n\n\nTesting Quarto freeze and actions\n\n\n\n\n\n\n\n\n\nJul 20, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nTesting GitHub actions for upload\n\n\nWill this publish without me doing anything except a commit?\n\n\n\n\n\n\n\n\n\nJul 19, 2022\n\n\nBrian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nOK, no more now. This is it. Promise\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 15, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nWhat, seriously? This again!\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 14, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nStill copying the same old content\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 13, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nThis is getting silly now\n\n\nYes, another duplicate. Sorry!\n\n\n\n\n\n\n\n\n\nJul 10, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nThis article looks quite similar\n\n\nI definitely just duplicated this one\n\n\n\n\n\n\n\n\n\nJul 8, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\n  \n\n\n\n\nFirst of many articles\n\n\nContinuing a demo to see how well things work out for the platform\n\n\n\n\n\n\n\n\n\nJul 5, 2022\n\n\nnot Brian Tarran\n\n\n\n\n\n\nNo matching items"
   }
 ]

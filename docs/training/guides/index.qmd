@@ -1,6 +1,12 @@
 ---
 title: "Guides"
 format: html
-sidebar: false
+listing:
+  contents:
+    - "**/[!index][!about]*.qmd"
+    - "**/[!index][!about]*.ipynb"
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 

@@ -12,37 +12,10 @@
     "docs\\case-studies\\social-and-public-policy\\index.qmd": [
       "**/[!index][!about]*.qmd"
     ],
-    "index.qmd": [
-      "docs/**/[!index][!about]*.qmd",
-      "docs/case-studies/business-and-industry/index.qmd",
-      "docs/case-studies/social-and-public-policy/index.qmd",
-      "docs/case-studies/science-and-academia/index.qmd",
-      "docs/explainers/ideas/index.qmd",
-      "docs/explainers/tools/index.qmd",
-      "docs/explainers/methods/index.qmd",
-      "docs/training/exercises/index.qmd",
-      "docs/training/guides/index.qmd",
-      "docs/training/recommended-reading/index.qmd",
-      "docs/training/datasets/index.qmd",
-      "docs/advice/helpline/index.qmd",
-      "docs/advice/career-profiles/index.qmd",
-      "docs/advice/professional-development/index.qmd",
-      "docs/advice/ethics-bestpractice/index.qmd"
+    "docs\\explainers\\ideas\\index.qmd": [
+      "**/[!index][!about]*.qmd"
     ],
     "docs\\explainers\\index.qmd": [
-      "posts",
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\explainers\\posts\\ideas\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\explainers\\posts\\methods\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\explainers\\posts\\tools\\index.qmd": [
-      "**/[!index][!about]*.qmd"
-    ],
-    "docs\\explainers\\ideas\\index.qmd": [
       "**/[!index][!about]*.qmd"
     ],
     "docs\\explainers\\methods\\index.qmd": [
@@ -50,6 +23,18 @@
     ],
     "docs\\explainers\\tools\\index.qmd": [
       "**/[!index][!about]*.qmd"
+    ],
+    "docs\\training\\guides\\index.qmd": [
+      "**/[!index][!about]*.qmd",
+      "**/[!index][!about]*.ipynb"
+    ],
+    "docs\\training\\index.qmd": [
+      "**/[!index][!about]*.qmd",
+      "**/[!index][!about]*.ipynb"
+    ],
+    "index.qmd": [
+      "docs/**/[!index][!about]*.qmd",
+      "docs/**/[!index][!about]*.ipynb"
     ]
   }
 }
