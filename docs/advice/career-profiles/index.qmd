@@ -1,6 +1,0 @@
----
-title: "Career Profiles"
-format: html
-sidebar: false
----
-
