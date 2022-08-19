@@ -1,1 +1,1 @@
-Sitemap: https://github.com/fatso-jetson/platform-demo/sitemap.xml
+Sitemap: https://fatso-jetson.github.io/platform-demo/sitemap.xml
