@@ -6,6 +6,7 @@ listing:
   sort: "date desc"
   type: default
   categories: true
+margin-header: ../../subscribe.html
 ---
 
 From healthcare to education to employment

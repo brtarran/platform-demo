@@ -1,5 +1,6 @@
 ---
 title: "Recommended Reading"
 format: html
+margin-header: ../../subscribe.html
 ---
 

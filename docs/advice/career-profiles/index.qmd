@@ -1,6 +1,6 @@
 ---
 title: "Career Profiles"
 format: html
-sidebar: false
+margin-header: ../../subscribe.html
 ---
 

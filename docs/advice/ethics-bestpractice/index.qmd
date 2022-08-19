@@ -1,6 +1,6 @@
 ---
 title: "Ethics & Best Practice"
 format: html
-sidebar: false
+margin-header: ../../subscribe.html
 ---
 
