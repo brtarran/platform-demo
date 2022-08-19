@@ -5,6 +5,9 @@ website:
   title: "Platform Demo"
   site-url: https://fatso-jetson.github.io/platform-demo
   description: A Quarto demo for a new project
+  repo-url: https://github.com/fatso-jetson/platform-demo
+  repo-actions: [edit, issue]
+  google-analytics: "G-WYPBPLLPNQ"
   navbar:
     background: secondary
     left:
@@ -19,9 +22,9 @@ website:
       - text: "Advice"
         href: docs/advice/index.qmd 
     right:
-      - href: https://github.com
+      - href: https://github.com/fatso-jetson/platform-demo
         icon: github
-      - href: https://twitter.com
+      - href: https://twitter.com/brtarran
         icon: twitter
       - href: index.xml
         icon: rss
@@ -93,9 +96,9 @@ website:
     center:
       - docs/about.qmd  
     right: 
-      - href: https://github.com
+      - href: https://github.com/fatso-jetson/platform-demo
         icon: github
-      - href: https://twitter.com
+      - href: https://twitter.com/brtarran
         icon: twitter
       - href: index.xml
         icon: rss
@@ -107,3 +110,4 @@ format:
     toc: true
 
 freeze: auto
+

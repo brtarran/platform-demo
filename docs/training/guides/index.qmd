@@ -4,7 +4,6 @@ format: html
 listing:
   contents:
     - "**/[!index][!about]*.qmd"
-    - "**/[!index][!about]*.ipynb"
   sort: "date desc"
   type: default
   categories: true
