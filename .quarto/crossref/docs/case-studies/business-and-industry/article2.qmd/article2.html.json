@@ -1,1 +1,1 @@
-{"headings":["section-header","another-section-header","conclusion"],"entries":[{"order":{"section":[0,0,0,0,0,0,0],"number":1},"key":"fig-polar","caption":"A line plot on a polar axis"}]}
+{"headings":["section-header","another-section-header","conclusion"],"entries":[{"key":"fig-polar","caption":"A line plot on a polar axis","order":{"number":1,"section":[0,0,0,0,0,0,0]}}]}

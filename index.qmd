@@ -21,6 +21,10 @@ include-after-body:
 ![](images/homepage.jpg)
 :::
 
+:::{.column-margin}
+![](twitter.html)
+:::
+
 ## Latest content
 
 ::: {#latest-content}
