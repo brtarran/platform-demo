@@ -1,0 +1,12 @@
+---
+title: "Science & Academia"
+listing:
+  contents:
+    - "**/[!index][!about]*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+margin-header: ../../subscribe.html
+---
+
+Cutting-edge applications from universities and labs

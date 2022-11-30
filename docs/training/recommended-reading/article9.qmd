@@ -1,0 +1,53 @@
+---
+title: "Another duplicate"
+subtitle: Trying to get RSS xml file to regenerate
+descrption: |
+  This post is copied from the Quarto website. I just want to see if it works for creating article types.
+format:
+  html:
+    code-fold: true
+jupyter: python3
+categories:
+  - python
+  - demo
+  - application
+author: not Brian Tarran
+date: 8/18/2022
+image: images/question.png
+image-alt: phone with code slogan on it
+page-layout: article
+comments:
+  hypothesis: true
+---
+
+For a demonstration of a line plot on a polar axis, see @fig-polar.
+
+```{python}
+#| label: fig-polar
+#| fig-cap: "A line plot on a polar axis"
+#| cap-location: margin
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 4 * np.pi * r
+fig, ax = plt.subplots(
+  subplot_kw = {'projection': 'polar'} 
+)
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+## Section header
+
+text blah blah blah
+
+## Another section header
+
+more text blah blah
+
+## Conclusion
+
+A load of blah

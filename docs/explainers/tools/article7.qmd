@@ -1,0 +1,37 @@
+---
+title: "Testing GitHub actions for upload"
+subtitle: Will this publish without me doing anything except a commit?
+descrption: |
+  My aim here is to get the article to appear on the demo website without me needing to do anything. Let's see if it works
+format:
+  html:
+    code-fold: true
+categories:
+  - demo
+  - application
+author: Brian Tarran
+date: 7/19/2022
+image: images/airpunch.png
+image-alt: punching the air
+page-layout: article
+comments:
+  hypothesis: true
+---
+
+So, this is the big moment. Can I use GitHub Actions to update the website without having to run anything myself. If I can, I'll be super happy.
+
+## But what if...
+
+What if I can't? Well, I'll just have to try something else.
+
+## Will you be disappointed?
+
+Yes, but it's all trial and error. I'm sure I'll get it working eventually.
+
+## Conclusion
+
+Fingers crossed!
+
+:::{.column-body}
+![](images/airpunch.png)
+:::

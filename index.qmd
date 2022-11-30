@@ -1,0 +1,32 @@
+---
+title: Welcome to this Platform Demo
+subtitle: I have built this site to see whether Quarto is a good platform for building what we want to build. *Let's see what's possible!*
+page-layout: article
+image: /images/homepage.jpg
+section-divs: false
+toc: false
+listing:
+  - id: latest-content
+    contents:
+      - "docs/**/[!index][!about]*.qmd"
+    sort: "date desc"
+    type: default
+    max-items: 10
+    categories: false
+    feed: true
+include-after-body: 
+  - docs/subscribe.html
+---
+:::{.column-screen}
+![](images/homepage.jpg)
+:::
+
+:::{.column-margin}
+![](twitter.html)
+:::
+
+## Latest content
+
+::: {#latest-content}
+
+:::

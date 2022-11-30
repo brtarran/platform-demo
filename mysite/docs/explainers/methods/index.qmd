@@ -1,6 +1,0 @@
----
-title: "Methods"
-format: html
-sidebar: false
----
-
